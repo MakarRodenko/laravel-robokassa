@@ -20,11 +20,11 @@
     "guzzlehttp/guzzle": ">=6.3",
     "ext-json": "*",
     "ext-simplexml": "*",
-    "makarrodenko/robokassa": "*"
+    "unetway/robokassa": "dev-master"
   },
   "autoload": {
     "psr-4": {
-      "MakarRodenko\\LaravelRobokassa\\": "src/"
+      "Unetway\\LaravelRobokassa\\": "src/"
     }
   }
 }
